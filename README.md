@@ -4,6 +4,7 @@ This year I decided I wanted to try out something other than the tired combinati
 
 ## Installing Ubuntu
 
+As with any time you setup an open source operating system, you will sometimes run into bugs. This was exactly my experience with the RBS. The two biggest issues I ran into were the caps lock key crashing my OS and the screen flickering. 
 
 ## Getting tools setup
 
